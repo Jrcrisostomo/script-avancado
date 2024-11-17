@@ -1,0 +1,17 @@
+{
+  "nome": "Junior",
+  "idade": 36,
+  "filhos": 1,
+  "hobbies": ["Codar", "Filmes", "Séries", "Academia"],
+  "casado": true,
+  "empresa": {
+    "DDKidS": {
+        "fundada": 2024,
+        "colaboradores": 2
+        },
+        "Online_Store": {
+        "fundada": 2024,
+        "colaboradores": 2
+        }
+     }
+}
